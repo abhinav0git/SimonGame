@@ -26,7 +26,7 @@ This is a web-based implementation of the classic Simon game. The game tests you
 
 ## Demo
 
-[live demo]
+[[live demo](https://simon-vercel.vercel.app/)https://simon-vercel.vercel.app/]
 
 
 Thank You!
