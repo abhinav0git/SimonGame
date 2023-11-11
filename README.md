@@ -28,16 +28,4 @@ This is a web-based implementation of the classic Simon game. The game tests you
 
 [live demo]
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/abhinav0git/SimonGame.git
-   ```
-
-2. Open `index.html` in your web browser.
-
-## Contributing
-
-Contributions are welcome! Fork the repository and submit a pull request. Thank You!
+Thank You!
