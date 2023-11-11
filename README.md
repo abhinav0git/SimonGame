@@ -28,4 +28,5 @@ This is a web-based implementation of the classic Simon game. The game tests you
 
 [live demo]
 
+
 Thank You!
