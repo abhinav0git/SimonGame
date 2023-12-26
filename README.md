@@ -25,11 +25,11 @@ This is a web-based implementation of the classic Simon game. The game tests you
 - Interactive buttons for each color.
 - Score tracking. (wip)
 
-## Features currently in development?
+## Features currently in development!!!
 
-- [x] Level progress-triggered sound queue
-- [ ] Store your highest score (score in general also)
-- [ ] Global scoreboard
+- [x] Level progress-triggered sound queue.
+- [ ] Store your high score (score in general also).
+- [ ] Global scoreboard.
 
 ## How to Play
 
